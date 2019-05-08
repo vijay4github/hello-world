@@ -1,2 +1,3 @@
 Welcome to the GIT Hub
+Added another lline to validate the conflict
 Learning Merge and Conflict
